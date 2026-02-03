@@ -2,6 +2,10 @@
 
 A production-ready document extraction application that uses AI to extract structured data from sales invoices.
 
+### UI Images
+![UI 1](https://github.com/user-attachments/assets/cac3201e-b6d7-4a5b-a068-365bef4371d6)
+![UI 2](https://github.com/user-attachments/assets/dfd6fc87-d9d9-4a7e-90ec-45a361d232cf)
+
 ## Features
 
 - **Upload invoices** (PDF or images) via a modern drag-and-drop interface
